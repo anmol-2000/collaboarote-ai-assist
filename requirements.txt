@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2
+python-dotenv
+passlib
+bcrypt
+pyjwt
+openai
+celery
+redis
